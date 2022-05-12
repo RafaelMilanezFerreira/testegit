@@ -1,3 +1,3 @@
 # testegit
-Teste Teste qa treinamento
+Treinamento
 
